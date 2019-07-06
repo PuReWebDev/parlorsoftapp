@@ -19,8 +19,6 @@ import {
   Colors,
 } from 'react-native/Libraries/NewAppScreen';
 
-import { ExampleScreen } from './src/view/screens/example-screen'
-
 const App = () => {
   return (
     <Fragment>
